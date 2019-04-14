@@ -1,8 +1,20 @@
+/**************************************************************
+ * HEIG-VD
+ *
+ * File       : Person.java
+ * Authors    : Gabriel Catel Torres & Pierrick Muller
+ * Created on : 10.04.2019
+ *
+ * Description  : Gestion de la structure et des données d'une personne
+ *
+ * Remarque    : Ce fichier est basé sur l'implémentation proposée
+ *               par Mr Olivier Liechti dans le cadre du cours
+ *               RES de la HEIG-VD
+ *
+ **************************************************************/
+
 package model.mail;
 
-import com.sun.org.apache.xerces.internal.impl.xpath.regex.Match;
-
-import javax.naming.StringRefAddr;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
